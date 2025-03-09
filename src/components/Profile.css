@@ -1,0 +1,13 @@
+.profile {
+    padding: 20px;
+  
+  }
+  
+  .profile-post {
+    background: #f0f0f0;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    max-width: fit-content;
+  }
+  
